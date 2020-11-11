@@ -1,0 +1,35 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+div.navigation {
+  width: 80%;
+  border: 1px solid;
+  height: 80px;
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  float: left;
+  margin-top: 20px;
+  margin-left: 290px;
+}
+
+div.picture {
+  width: 600px;
+  height: 200px;
+  border: 1px solid;
+  margin: auto;
+}
+
+.footer {
+  border: 1px solid;
+  width: 200px;
+  height: 400px;
+  margin: auto;
+}
